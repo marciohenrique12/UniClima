@@ -61,7 +61,8 @@ class _HomeState extends State<Home> {
     //variáveis auxiliares para montagem da URL de requisição
     const String _apiURL = "api.openweathermap.org";
     const String _path = "/data/2.5/weather";
-    const String _appid = "f1f8502a68ea8fc0008242591ab0f7ca";
+    const String _appid =
+        "Documentos pessoais\01 - UNINOVE\3 SEM\Desenvolvimento de Aplicativos Móveis Híbridos";
     const String _units = "metric";
     const String _lang = "pt_br";
 
